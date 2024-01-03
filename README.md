@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
-- 🌱 I’m currently learning **Terraform**
+- 🌱 I’m currently learning **MLOps**
 
 - 👨‍💻 All of my projects are available at [akashwh7.github.io](akashwh7.github.io)
 
-- 💬 Ask me about **AWS, Linux,Shell Scripting,Github Actions CICD, Kubernetes**
+- 💬 Ask me about **AWS, Linux,Shell Scripting,Github Actions CICD, Kubernetes, Google Cloud, Terraform, Jupyter Notebooks, MLOps**
 
 - 📫 How to reach me **akashwh7@gmail.com**
 
